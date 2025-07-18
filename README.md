@@ -1,5 +1,5 @@
 output screenshots:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e55138c2-11d3-4b11-b055-6261faf4a091" />
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4fa16ae1-caf3-45a9-93eb-f2ee5b545e94" />
 
 
